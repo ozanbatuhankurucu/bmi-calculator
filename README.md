@@ -2,7 +2,7 @@
 
 BMI Calculator
 
-![alt text](https://i.hizliresim.com/CqGNeM.png) ![alt text](https://i.hizliresim.com/04S6mp.png)
+![alt text](https://i.hizliresim.com/CqGNeM.png) ![alt text](https://i.hizliresim.com/8A2O3y.png)
 
 ## Getting Started
 
